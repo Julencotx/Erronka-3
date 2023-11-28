@@ -100,7 +100,8 @@ MultiSim-en eskema egiten hari ginen bitartean, ICEStudion programa egin genuen,
 ![ICEStudio programa](https://github.com/Julencotx/Erronka-3/assets/151912632/e8178bc7-22e4-43d3-94f0-d1c3c2e03c08)
 
 Ondoren gai gehiago jarri genizkion programari eta pixkat ordenatu genuen hobeto ulertzeko:
-<img width="533" alt="Captura de pantalla 2023-11-26 224635" src="https://github.com/Julencotx/Erronka-3/assets/151912632/bc2ae0a6-1847-4e95-ac25-2dc8a3a6a36c">
+![PROGRAMA](https://github.com/Julencotx/Erronka-3/assets/151912632/d0da8f2d-b766-4f62-956c-4d18755e99a8)
+
 
 **2.5-Muntaia:**
 Azkenik, muntaia egin genuen, jokuaren funtzionamendu finala ikusteko eta jokua praktikan jartzeko, herabili genituen materialak hauek izan ziren:
